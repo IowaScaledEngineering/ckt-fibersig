@@ -1,0 +1,4 @@
+schematics ckt-fibersig.sch
+output-name ../pcb/ckt-fibersig
+skip-m4
+elements-dir ../../footprints
